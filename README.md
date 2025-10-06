@@ -1,2 +1,3 @@
 # demo
-this is my first project on GitHub
+this is my first Repository.
+Auther - Prathamesh Hiremath
